@@ -6,7 +6,10 @@ can dive into the relevant documentation for each project by visiting the
 following links:
 
 - `Translate Toolkit documentation
-  <http://translate.readthedocs.org/projects/translate-toolkit/en/latest/>`_
+  <http://docs.translatehouse.org/projects/translate-toolkit/>`_
 
 - `Pootle documentation
-  <http://translate.readthedocs.org/projects/pootle/en/latest/>`_
+  <http://docs.translatehouse.org/projects/pootle/>`_
+
+- `amaGama documentation
+  <http://docs.translatehouse.org/projects/amagama/>`_
