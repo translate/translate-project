@@ -11,5 +11,8 @@ following links:
 - `Pootle documentation
   <http://docs.translatehouse.org/projects/pootle/>`_
 
+- `Virtaal documentation
+  <http://docs.translatehouse.org/projects/virtaal/>`_
+
 - `amaGama documentation
   <http://docs.translatehouse.org/projects/amagama/>`_
