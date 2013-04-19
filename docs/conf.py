@@ -244,6 +244,6 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {
-    'toolkit': ('http://translate-toolkit.readthedocs.org/en/latest/', None),
-    'pootle': ('http://pootle.readthedocs.org/en/latest/', None),
+    'toolkit': ('http://docs.translatehouse.org/projects/translate-toolkit/en/latest/', None),
+    'pootle': ('http://docs.translatehouse.org/projects/pootle/en/latest/', None),
 }
