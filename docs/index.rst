@@ -1,9 +1,9 @@
 Welcome to the Translate Project!
 =================================
 
-The Translate Project is the umbrella where other smaller projects live. You
-can dive into the relevant documentation for each project by visiting the
-following links:
+The Translate Project develops a number of pieces of software for localizers.
+You can dive into the relevant documentation and resources for each project by
+visiting the following links:
 
 - `Translate Toolkit documentation
   <http://docs.translatehouse.org/projects/translate-toolkit/>`_
@@ -16,3 +16,11 @@ following links:
 
 - `amaGama documentation
   <http://docs.translatehouse.org/projects/amagama/>`_
+
+Shared Resources
+----------------
+
+- `Bug database <http://bugs.locamotion.org>`_
+- `IRC <irc://irc.freenode.net/#pootle>`_
+- `Mailing list <https://lists.sourceforge.net/lists/listinfo/translate-devel>`_
+- `Code <https://github.com/translate/>`_
