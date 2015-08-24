@@ -20,7 +20,6 @@ visiting the following links:
 Shared Resources
 ----------------
 
-- `Bug database <http://bugs.locamotion.org>`_
 - `IRC <irc://irc.freenode.net/#pootle>`_
 - `Mailing list <https://lists.sourceforge.net/lists/listinfo/translate-devel>`_
 - `Code <https://github.com/translate/>`_
