@@ -20,6 +20,6 @@ visiting the following links:
 Shared Resources
 ----------------
 
-- `IRC <irc://irc.freenode.net/#pootle>`_
+- `Gitter <https://gitter.im/translate/pootle>`_
 - `Mailing list <https://lists.sourceforge.net/lists/listinfo/translate-devel>`_
 - `Code <https://github.com/translate/>`_
