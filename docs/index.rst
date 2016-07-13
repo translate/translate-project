@@ -6,16 +6,16 @@ You can dive into the relevant documentation and resources for each project by
 visiting the following links:
 
 - `Translate Toolkit documentation
-  <http://docs.translatehouse.org/projects/translate-toolkit/en/stable/>`_
+  <http://docs.translatehouse.org/projects/translate-toolkit/>`_
 
 - `Pootle documentation
-  <http://docs.translatehouse.org/projects/pootle/en/stable/>`_
+  <http://docs.translatehouse.org/projects/pootle/>`_
 
 - `Virtaal documentation
-  <http://docs.translatehouse.org/projects/virtaal/en/latest/>`_
+  <http://docs.translatehouse.org/projects/virtaal/>`_
 
 - `amaGama documentation
-  <http://docs.translatehouse.org/projects/amagama/en/latest/>`_
+  <http://docs.translatehouse.org/projects/amagama/>`_
 
 Shared Resources
 ----------------
