@@ -17,6 +17,9 @@ visiting the following links:
 - `amaGama documentation
   <http://docs.translatehouse.org/projects/amagama/>`_
 
+- `Localization Guide
+  <http://docs.translatehouse.org/projects/localization-guide/>`_
+  
 Shared Resources
 ----------------
 
